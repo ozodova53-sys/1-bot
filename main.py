@@ -13,7 +13,7 @@ dp = Dispatcher()
 # VIDEOLAR RO'YXATI (Kod: Link)
 # Bu yerga videolaringiz linkini qo'shasiz
 videolar = {
-    "1": "https://t.me/vorkaut_andijon/2",
+    "1": https://t.me/c/3084186707/287
     "2": "https://t.me/vorkaut_andijon/3",
     "12": "https://t.me/vorkaut_andijon/12",
 }
@@ -32,7 +32,7 @@ async def send_video(message: types.Message):
 
 async def main():
     await dp.start_polling(bot)
-
+    
 if __name__ == "__main__":
     asyncio.run(main())
 
